@@ -32,6 +32,7 @@ bash
 Copy
 Edit
 pip install pandas numpy scikit-learn imbalanced-learn xgboost joblib
+
 🔁 Pipeline Overview
 Load and label data → load_data.py
 
@@ -42,6 +43,7 @@ Balance with SMOTE → balance_data.py
 Train XGBoost models → train_model.py
 
 📦 Outputs
+
 X_scaled.csv, y_labels.csv — preprocessed features and labels
 
 X_resampled.parquet, y_resampled.parquet — SMOTE-balanced data
@@ -52,7 +54,9 @@ ids_xgboost_multiclass.pkl — model for attack type
 
 ids_xgboost_threat.pkl — model for threat level
 
+
 🤝 Contributing
+
 This project is a work in progress. Contributions, feedback, or expert advice are highly appreciated!
 
 Steps to contribute:
@@ -67,7 +71,9 @@ Push to branch: git push origin feature/your-feature
 
 Open a pull request
 
+
 📫 Contact
+
 Developer: Devendra Mahesh Chaurasiya
 
 LinkedIn: https://linkedin.com/in/devendra-chaurasia-20a5542b5
