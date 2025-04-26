@@ -1,5 +1,3 @@
-
-```markdown
 # Network Intrusion Detection System (NIDS) – CICIDS2017 Dataset
 
 🚧 This project is currently under active development.  
@@ -7,6 +5,7 @@
 
 This repository provides a machine learning pipeline to train a Network Intrusion Detection System (NIDS) using the CICIDS2017 dataset. It uses XGBoost for multiclass classification and includes full data processing, balancing, and model training.
 
+```markdown
 ---
 
 ## 📌 Features
