@@ -7,7 +7,7 @@ This repository provides a machine learning pipeline to train a Network Intrusio
 
 ```markdown
 
-## 📌 Features
+📌 Features
 
 - Full pipeline for attack detection using machine learning
 - CICIDS2017 dataset-based training
@@ -19,7 +19,7 @@ This repository provides a machine learning pipeline to train a Network Intrusio
 
 ---
 
-## 🛠️ Setup Instructions
+🛠️ Setup Instructions
 
 1. Clone the repository:
 
